@@ -10,6 +10,19 @@ This project explores a hypothetical marketing campaign for the launch of *"Clas
 
 Using data analytics, this project evaluates different campaign and channel combinations, aiming to provide actionable insights to guide budget allocation and maximize overall campaign performance.
 
+# Table of Contents
+
+1. [About the Data](#about-the-data)
+2. [Business Questions Addressed](#business-questions-addressed)
+3. [Key Findings & Insights](#key-findings--insights)
+   - [1) Identifying Best-Performing Channels](#1-identifying-best-performing-channels)
+   - [2) Optimizing Budget Allocation Across High-Performing Campaigns](#2-optimizing-budget-allocation-across-high-performing-campaigns)
+   - [3) Identifying the Optimal Customer Segments for Each Campaign](#3-identifying-the-optimal-customer-segments-for-each-campaign)
+   - [4) Determining Optimal Campaign Duration for Maximum Conversion Rates](#4-determining-optimal-campaign-duration-for-maximum-conversion-rates)
+   - [5) Identifying Optimal Months for Each Selected Campaign](#5-identifying-optimal-months-for-each-selected-campaign)
+   - [6) Analyzing the Impact on Net Profit Estimates](#6-analyzing-the-impact-on-net-profit-estimates)
+4. [Recommendations](#recommendations)
+5. [Conclusion](#conclusion)
 
 ## About the Data
 
