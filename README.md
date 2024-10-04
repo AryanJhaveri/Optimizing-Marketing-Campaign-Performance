@@ -10,7 +10,7 @@ This project explores a hypothetical marketing campaign for the launch of *"Clas
 
 Using data analytics, this project evaluates different campaign and channel combinations, aiming to provide actionable insights to guide budget allocation and maximize overall campaign performance.
 
-# Table of Contents
+## Table of Contents
 
 1. [About the Data](#about-the-data)
 2. [Business Questions Addressed](#business-questions-addressed)
